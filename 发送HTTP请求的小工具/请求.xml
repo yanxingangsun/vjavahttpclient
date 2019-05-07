@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<请求集合>
+<请求 说明='用例1' 地址='https://api.weixin.qq.com/cgi-bin/token'>
+<参数 名称='grant_type' 内容='client_credential'/>
+<参数 名称='appid' 内容='wxfc27805daac56d9b'/>
+<参数 名称='secret' 内容='12d853529003c68d0d2c9d4f87dd8b57'/>
+</请求>
+<请求 说明='用例2（本用例错误）' 地址='https://api.weixin.qq.com/cgi-bin/token'>
+<参数 名称='grant_type1' 内容='client_credential'/>
+<参数 名称='appid' 内容='wxfc27805daac56d9b'/>
+<参数 名称='secret' 内容='12d853529003c68d0d2c9d4f87dd8b57'/>
+</请求>
+</请求集合>

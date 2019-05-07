@@ -36,6 +36,7 @@ public class Post请求 extends javax.swing.JDialog {
         });
         this.setLocationRelativeTo(f);
         this.setSize(300,200);
+        this.setTitle("发送Post请求");
     }
 
     /**

@@ -12,3 +12,9 @@
 
 下载解压，用NetBeansIDE打开编译，运行即可。
 
+#### 软件截图
+1. ![输入图片说明](https://images.gitee.com/uploads/images/2019/0507/193752_4a36d60a_76449.png "http1.png")
+
+2. ![输入图片说明](https://images.gitee.com/uploads/images/2019/0507/193802_a5ea9557_76449.png "http2.png")
+
+3. ![输入图片说明](https://images.gitee.com/uploads/images/2019/0507/193812_d5d8e789_76449.png "http3.png")

@@ -38,6 +38,7 @@ public class Get请求 extends javax.swing.JDialog {
         });
         this.setLocationRelativeTo(f);
         this.setSize(300,200);
+        this.setTitle("发送Get请求");
     }
 
     /**
